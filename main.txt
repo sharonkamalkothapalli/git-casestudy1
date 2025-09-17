@@ -1,0 +1,1 @@
+This is my main.txt file for git-casestudy1 project.
